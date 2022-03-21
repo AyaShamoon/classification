@@ -1,2 +1,2 @@
 # classification
-building a classifier using KNN
+## building a classifier using KNN
